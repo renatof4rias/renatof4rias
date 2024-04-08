@@ -25,10 +25,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/renato00_farias/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-65EAA7?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/renato00_farias/"/>
-  </a>
-  <a href="https://www.linkedin.com/in/renatof4rias/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-8A65B5?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/renatof4rias/"/>
-  </a>
+Linkedin: www.linkedin.com/in/renatof4rias/  
+
+E-mail: renatof4rias@gmail.com
 </p>
