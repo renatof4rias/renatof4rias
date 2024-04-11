@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-Linkedin: www.linkedin.com/in/renatof4rias/  
+Linkedin: https://www.linkedin.com/in/renato-goncalves-farias/
 
 E-mail: renatof4rias@gmail.com
 </p>
