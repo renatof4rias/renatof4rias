@@ -1,37 +1,33 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=67CD3A&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Renato+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+# Oi, Eu sou o Renato.
 
+### Muito prazer em ter sua visita em meu perfil, sou Desenvolvedor de Software com atuação na área do Backend.
 
-<p align="left"> 
- <strong>Desenvolvedor Backend</strong>.
-</p>
+## Contantos 
 
-<p align="left">
- <strong> Linguagens:</strong> Java.
-</p>
-<p align="left">
- <strong> Frameworks:</strong> Spring Framework.
-</p>
-<p align="left">
- <strong> Testes:</strong> Mockito e JUnit.
-</p>
-<p align="left">
- <strong> Banco de Dados:</strong> MySQL e PostgreSQL.
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-goncalves-farias/)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://twitter.com/molenkao)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:renatof4rias@gmail.com)
+[![DIO](https://img.shields.io/badge/DIO-DC143C?style=for-the-badge&logoColor=red)](https://www.dio.me/users/renatof4rias)
 
-<hr>
-<br>
-<p align="left">
-<strong>Contatos:</strong>
-</p>
+## Habilidades 
+Linguagens :
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=67CD3A&color:FFF)](mailto:renatof4rias@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=67CD3A&color:FFF)](https://www.linkedin.com/in/renato-goncalves-farias/)
-<hr>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renatof4rias/renatof4rias/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renatof4rias/renatof4rias/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/renatof4rias/renatof4rias/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
-<hr>
+Frameworks :
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+Testes :
+
+[![JUnit](https://img.shields.io/badge/JUnit-6495ED?style=for-the-badge&logoColor=red)]()
+[![JUnit](https://img.shields.io/badge/Mockito-4682B4?style=for-the-badge&logoColor=red)]()
+
+Documentação :
+
+[![JUnit](https://img.shields.io/badge/Swagger-333333?style=for-the-badge&logoColor=red)]()
+
+Banco de Dados :
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
