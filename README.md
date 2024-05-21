@@ -2,7 +2,7 @@
 
 ### Muito prazer em ter sua visita em meu perfil, sou Desenvolvedor de Software com atuação na área do Backend.
 
-## Contantos 
+## Contatos 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-goncalves-farias/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://twitter.com/molenkao)
