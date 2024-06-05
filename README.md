@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-goncalves-farias/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://twitter.com/molenkao)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:renatof4rias@gmail.com)
-[![DIO](https://img.shields.io/badge/DIO-DC143C?style=for-the-badge&logoColor=red)](https://www.dio.me/users/renatof4rias)
+
 
 ## Habilidades 
 Linguagens :
