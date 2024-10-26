@@ -1,4 +1,3 @@
-# Oi, Eu sou o Renato.
 
 ### Muito prazer em ter sua visita em meu perfil, sou Desenvolvedor de Software com atuação na área do Backend.
 
